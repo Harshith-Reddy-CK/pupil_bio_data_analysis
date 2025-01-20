@@ -1,7 +1,8 @@
-🧬 Pupil Bio Data Analysis
+#Pupil Bio Data Analysis 🧬 
+
 Welcome to the Pupil Bio Data Analysis repository! This repository contains code and scripts used for the bioinformatics challenge related to identifying somatic mutations and performing quality control for cancer sample analysis.
 
-⚡ Overview of Tasks
+⚡ ##Overview of Tasks
 <details> <summary>🧑‍🔬 Task 1: Coverage Analysis and Biomarker Identification</summary>
 Coverage Analysis
 
@@ -35,9 +36,9 @@ To use the scripts, follow these steps:
 
 Clone the repository:
 
-'''bash
+"""bash
 git clone https://github.com/Harshith-Reddy-CK/pupil_bio_data_analysis.git
-cd pupil_bio_data_analysis
+cd pupil_bio_data_analysis """
 
 
 Install dependencies listed in the requirements (e.g., Python, R packages, etc.).
