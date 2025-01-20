@@ -1,7 +1,7 @@
-#🧬 Pupil Bio Data Analysis
+🧬 Pupil Bio Data Analysis
 Welcome to the Pupil Bio Data Analysis repository! This repository contains code and scripts used for the bioinformatics challenge related to identifying somatic mutations and performing quality control for cancer sample analysis.
 
-##⚡ Overview of Tasks
+⚡ Overview of Tasks
 <details> <summary>🧑‍🔬 Task 1: Coverage Analysis and Biomarker Identification</summary>
 Coverage Analysis
 
